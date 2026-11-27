@@ -69,6 +69,8 @@ powershell -File scripts/dev.ps1 apk
 
 ## Code and verification
 
+Automated tests and Android/iOS build verification for this public snapshot are pending. Commands and verification workflows are provided below.
+
 | Path | Contents |
 | --- | --- |
 | `lib/main.dart` | UI, language selection, and user flow |
